@@ -2,7 +2,7 @@
 
 <p align='center'>반갑습니다. 부족하지만 노력하는 사람이 되고자 하는 개발자 입니다.</p>
 
-<p align='center'>🛠 My Tech Stack</p>
+<p align='center'>🛠️ My Tech Stack</p>
 
 <p align='center'>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white' />
