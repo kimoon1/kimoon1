@@ -17,3 +17,4 @@
 </p>
 
 <p align='center'><img src='https://github-readme-stats.vercel.app/api?username=kimoon1&show_icons=true&theme=vue' /> </p>
+![kimoon1 GitHub stats](https://github-readme-stats.vercel.app/api?username=kimoon1&theme=vue&show_icons=true)
